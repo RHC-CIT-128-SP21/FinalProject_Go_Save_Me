@@ -12,9 +12,9 @@ After the data is stored, the user can then request a report of exepnditures as 
 
 ## Code Structure
 The code will be broken into 3 main sections. 
-1.The program receives user input
-2.The program appends to storage
-3.The program calls and calculates the percentage reports
+1. The program receives user input
+2. The program appends to storage
+3. The program calls and calculates the percentage reports
 
 ## Testing 
 
