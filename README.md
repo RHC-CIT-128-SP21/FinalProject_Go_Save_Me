@@ -22,9 +22,9 @@ Testing will be done using a professor approved unit test and must pass all test
 The unit test will use good data, bad data, and data that may just need a data type change. 
 
 ## Rubric / Grading Scale
-*Working Python Code
-  *Code follows the structure and actions(60 Points)
-  *Code appends and updates excel file (20 points)
-  *Code passes the Unit Test(120)
+* Working Python Code
+  * Code follows the structure and actions(60 Points)
+  * Code appends and updates excel file (20 points)
+  * Code passes the Unit Test(120)
  
  Total: 200 Points
