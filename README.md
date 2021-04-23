@@ -10,7 +10,7 @@ It will take in user input such as generated revenue as well as expenditures.
 All storage of data will be placed upon an inaccessible excel file.
 After the data is stored, the user can then request a report of exepnditures as percentages and the program will return where high expenditures are made.  
 
-##Code Structure
+## Code Structure
 The code will be broken into 3 main sections. 
 1.The program receives user input
 2.The program appends to storage
