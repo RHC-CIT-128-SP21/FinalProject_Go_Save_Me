@@ -28,3 +28,24 @@ The unit test will use good data, bad data, and data that may just need a data t
   * Code passes the Unit Test(120)
  
  Total: 200 Points
+ 
+## Instructions To Use Code
+ # Code starts and terminal screen shows up giving 5 options:
+  * Option 1: Add an expense to your report
+  * Option 2: Add income to your report
+  * Option 3: Get a percentage report
+  * Option 4: Show entirety of expense and income report
+  * Option 5: Exit program
+
+ # Option 1 Steps:
+  * Enter amount of expenditure
+  * Select category of expense(Food, Gas, or Other)
+  * Code will automatically save it to the report
+
+ # Option 2 Steps:
+  * Enter amount of income
+  * Code will automatically save it to the report
+
+ # Option 3 steps:
+  * Code will automatcally return percentage report of all spending categories
+  * Code will also highlight the highest percentage and give a tip to save money
